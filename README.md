@@ -31,7 +31,7 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 | 主题 | 文章 |
 | :--: | :-- |
 | 监督学习 | [线性回归](./contents/ml/regression.md)<br> |
-| 无监督学习 | [聚类分析](./contents/ml/2018-conclusion.md)<br> |
+| 无监督学习 | [聚类分析](./contents/ml/2018-conclusion.md)<br>-------------------------------------------------------------------------------------------------- |
 
 
 
@@ -39,15 +39,11 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 
 
 
-
-
-## 🐘 分布式大数据
-
-
-
-
-
 ##  iOS开发
+
+
+
+## 🐘 大数据
 
 
 
@@ -63,7 +59,7 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 | 主题 | 文章 |
 | :--: | :-- |
 | git操作 |  |
-| shell操作 |  |
+| shell操作 | <br>-------------------------------------------------------------------------------------------------- |
 
 
 
@@ -74,7 +70,7 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 
 |   主题   | Article                                                      |
 | :------: | :----------------------------------------------------------- |
-| 年度总结 | [我的2017年总结](./contents/timeElapse/2018-conclusion.md)<br> |
+| 年度总结 | [我的2017年总结](./contents/timeElapse/2018-conclusion.md)<br>-------------------------------------------------------------------------------------------------- |
 
 
 
