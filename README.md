@@ -41,6 +41,12 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 
 
 
+## 🐘 分布式大数据
+
+
+
+
+
 ##  iOS开发
 
 
@@ -53,7 +59,12 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 
 
 
-## 🖥️ 操作系统
+## 🖥️ 计算机系统
+| 主题 | 文章 |
+| :--: | :-- |
+| git操作 |  |
+| shell操作 |  |
+
 
 
 
