@@ -1,3 +1,4 @@
+> 一切了实战，按需加载！
 <p align='left'>
 <img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
 <img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
@@ -7,19 +8,16 @@
 <img src="https://img.shields.io/badge/Blog-@appke-blue.svg">
 <img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorA=a0cd34">
 </p>
-
 <p align='left'>
 <a href="https://weibo.com/92080927"><img src="https://img.shields.io/badge/weibo-@__俊辰-f974ce.svg?style=flat&colorA=f4292e"></a>
 <a href="https://twitter.com/likejunchen"><img src="https://img.shields.io/badge/twitter-@appke-333.svg?style=flat&colorA=0092f2"></a>
 <a href="https://www.jianshu.com/u/4dc749fdfbb7"><img src="https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-@geekAppke-b561fe.svg?style=flat&colorA=ed6f59"></a>
 </p>
-以后简书、公总号上的文章，都会同步到 GitHub 上
+以后简书、公总号上发布的文章，都会同步到 GitHub 上
 
 ---
-
-1. 一切了实战，按需加载
-2. 业务场景相结合，推动业务增长创造价值
-3. 花哨的东西都不重要，真正无价的是博客的**稳定**和**实用**
+1. 业务场景相结合，推动业务增长创造价值
+2. 外在花哨的东西都不重要，真正无价的是博客的**稳定**和**实用**
 
 
 
@@ -53,22 +51,18 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 
 
 
-
-
 ## 🖥️ 计算机系统
 | 主题 | 文章 |
 | :--: | :-- |
 | git操作 |  |
-| shell操作 | <br>-------------------------------------------------------------------------------------------------- |
-
-
+| shell操作 | -------------------------------------------------------------------------------------------------- |
 
 
 
 
 ## ❄️ 总结与分享
 
-|   主题   | Article                                                      |
+|   主题   | 文章                                                         |
 | :------: | :----------------------------------------------------------- |
 | 年度总结 | [我的2017年总结](./contents/timeElapse/2018-conclusion.md)<br>-------------------------------------------------------------------------------------------------- |
 
@@ -77,8 +71,6 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 <p align='center'>
 <img src='contents/image/surface-plot.png'>
 </p>
-
-
 ## ❗️ 勘误
 
 + 如果在文章中发现了问题，欢迎提交 PR 或者 issue，欢迎大神们多多指点🙏🙏🙏
