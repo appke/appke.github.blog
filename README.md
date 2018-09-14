@@ -13,7 +13,7 @@
 <a href="https://twitter.com/likejunchen"><img src="https://img.shields.io/badge/twitter-@appke-333.svg?style=flat&colorA=0092f2"></a>
 <a href="https://www.jianshu.com/u/4dc749fdfbb7"><img src="https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-@geekAppke-b561fe.svg?style=flat&colorA=ed6f59"></a>
 </p>
-以后简书、公总号上发布的文章，都会同步到 GitHub 上
+🦋以后简书、公总号上发布的文章，都会同步到 GitHub 上
 
 ---
 1. 业务场景相结合，推动业务增长创造价值
