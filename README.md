@@ -26,6 +26,7 @@
 Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/contents/ml/contents.md)
 
 ## 🍉 机器学习
+
 | 主题 | 文章 |
 | :--: | :-- |
 | 监督学习 | [线性回归](./contents/ml/regression.md)<br> |
@@ -52,6 +53,7 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 
 
 ## 🖥️ 计算机系统
+
 | 主题 | 文章 |
 | :--: | :-- |
 | git操作 |  |
@@ -62,14 +64,14 @@ Latest：[目录](https://github.com/appke/appke.github.blog/blob/master/content
 
 ## ❄️ 总结与分享
 
-|   主题   | 文章                                                         |
+|   主题   | 文章                                               |
 | :------: | :----------------------------------------------------------- |
 | 年度总结 | [我的2017年总结](./contents/timeElapse/2018-conclusion.md)<br>-------------------------------------------------------------------------------------------------- |
 
 
 
 <p align='center'>
-<img src='contents/image/surface-plot.png'>
+<img src='contents/images/surface-plot.png'>
 </p>
 
 ## ❗️ 勘误
